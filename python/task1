@@ -1,4 +1,6 @@
 import math
+
 mesto = int(input('Введите номер вашего места:'))
 kupe = math.ceil(mesto / 4)
+
 print("номер вашего купе:"kupe)
